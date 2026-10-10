@@ -6,9 +6,11 @@
    <span>Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Abdullah Azzam</span>
    </strong>
 </h1>
+
+<h2>About Me</h2>
 <img align="right" src="./astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**aJamBeduL**, here — a first-semester Computer Science student at PNJ, currently focused on frontend development.
+**aJamBeduL**, here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.
 
 I enjoy building clean, responsive, and user-friendly interfaces while exploring how great software is designed and developed.
 
@@ -16,10 +18,9 @@ Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthen
 
 My goal is simple: write clean code, build meaningful projects, and keep learning until I become a sepuh software engineer who can turn ideas into reliable, well-crafted software.
 <br clear="right"/>
-
 </div>
 
-
+<h2>Stats</h2>
 <p align="center">
   <a href="https://github.com/aJamBeduL">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aJamBeduL&cache_seconds=7200&layout=compact&theme=radical&hide_border=true" alt="aJamBeduL's GitHub Stats" />
