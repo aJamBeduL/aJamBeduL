@@ -3,11 +3,7 @@
    <span>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Abdullah Azzam</span>
    </strong>
 </h1>
-<p align="center">
-  <strong>
-    <span>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Abdullah azzam</span>
-  </strong>
-</p>
+
 <img src="https://i.pinimg.com/1200x/91/74/29/9174298ed8c896682edb9789265e462d.jpg" alt="Banner" width="100%" style="border-radius: 12px;"/>
 
 <p align="center">
