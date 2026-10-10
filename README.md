@@ -11,7 +11,7 @@
 <h2>About Me</h2>
 <img align="right" src="./astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**aJamBeduL**, here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.
+**aJam** here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.
 
 I enjoy building clean, responsive, and user-friendly interfaces while exploring how great software is designed and developed.
 
