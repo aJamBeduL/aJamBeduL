@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/aJamBeduL">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aJamBeduL&cache_seconds=7200&layout=compact&theme=radical&hide_border=true" alt="aJamBeduL's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=radical&hide_border=true&cache_seconds=86400" alt="aJamBeduL's GitHub Streak" width="" />
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aJamBeduL&cache_seconds=7200&layout=compact&theme=radical&hide_border=true" alt="aJamBeduL's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=radical&hide_border=true&cache_seconds=86400" alt="aJamBeduL's GitHub Streak" width="45" />
   </a>
 </p>
 
