@@ -1,10 +1,15 @@
-<h1 align="center">
+<img src="(https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ubwmiuypzaax3fhixqf4)" alt="Banner" width="100%" style="border-radius: 12px;"/>
+
+<div align="center">
+<h1>
    <strong>
-   <span>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Abdullah Azzam</span>
+   <span>Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Abdullah Azzam</span>
    </strong>
 </h1>
+   <p>Studying Informatics Engineering at Politeknik Negeri Jakarta</p>
+   <p>Studying web development since 2023</p>
+</div>
 
-<img src="https://i.pinimg.com/1200x/91/74/29/9174298ed8c896682edb9789265e462d.jpg" alt="Banner" width="100%" style="border-radius: 12px;"/>
 
 <p align="center">
   <a href="https://github.com/aJamBeduL">
@@ -18,7 +23,7 @@
 
 <h3 align="center">Language</h3>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
