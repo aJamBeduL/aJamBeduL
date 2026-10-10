@@ -1,11 +1,11 @@
 <img src="./ascihand-removebg-preview.png" alt="Banner" width="100%" style="border-radius: 12px;"/>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, Im Muhammad Abdullah Azzam</h1>
 
 <h3 align="center">Front-end Developer</h3>
 
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com/demo/?font=JetBrains+mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=I+Like+To+Play+VALORANT;I+Like+Eat+Fried+Duck;I+Like+To+Play+Front-end+Develop />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=I+Like+To+Play+VALORANT;I+Like+Eat+Fried+Duck;I+Like+To+Play+Front-end+Develop" />
 </p>
 
 <h2>About Me</h2>
