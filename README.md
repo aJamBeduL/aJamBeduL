@@ -1,6 +1,14 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm aJamBeduL</h1>
-
-<img src="https://i.pinimg.com/1200x/91/74/29/9174298ed8c896682edb9789265e462d.jpg" alt="Banner" width="100%" />
+<h1 align="center">
+   <strong>
+   <span>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Abdullah Azzam</span>
+   </strong>
+</h1>
+<p align="center">
+  <strong>
+    <span>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Muhammad Abdullah azzam</span>
+  </strong>
+</p>
+<img src="https://i.pinimg.com/1200x/91/74/29/9174298ed8c896682edb9789265e462d.jpg" alt="Banner" width="100%" style="border-radius: 12px;"/>
 
 <p align="center">
   <a href="https://github.com/aJamBeduL">
@@ -10,7 +18,7 @@
 </p>
 
 
-## Languages & Tools
+<h2><strong>Languages &amp; Tools</strong></h2>
 
 <h3 align="center">Language</h3>
 <p align="center">
@@ -32,12 +40,12 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 </p>
 
-## Stay connected
+<h2><strong>Stay Connected</strong></h2>
 <p align="center">
-  <a href="ee">
+  <a href="e">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;
-  <a href="eee">
+  <a href="e">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;
   <a href="https://wa.me/62085712480669">
@@ -49,7 +57,7 @@
   <a href="mailto:azzamabdull86@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;
-  <a href="ee">
+  <a href="e">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
