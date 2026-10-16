@@ -32,8 +32,8 @@
 <h2>Stats</h2>
 <p align="center">
   <a href="https://github.com/aJamBeduL">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aJamBeduL&cache_seconds=7200&layout=compact&theme=radical&hide_border=true" alt="aJamBeduL's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=radical&hide_border=true&cache_seconds=86400" alt="aJamBeduL's GitHub Streak" width="48%" />
+    <img height="160em" src="https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true" />
+    <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=city_lights&hide_border=true" width="48%" />
      <img height="160em" src="https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=nord&hide_border=true&include_all_commits=false&count_private=false" />
     <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=nord&hide_border=true" width="48%" />
   </a>
@@ -53,11 +53,10 @@
 <h2><strong>Stay Connected</strong></h2>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajambedul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajambedul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azzamabdull86@gmail.com) 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aJamBeduL&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aJamBeduL&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aJamBeduL&theme=city_lights&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aJamBeduL&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
