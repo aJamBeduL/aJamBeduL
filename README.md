@@ -12,11 +12,11 @@
 <img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="220" alt="Developer Illustration"/>
 
 <p align="justify" width="50%">
-  <strong>aJam</strong> here — a first-semester of Informatics Engineering student at Politeknik Negeri Jakarta, <br> currently focused on frontend development. and learning how to create modern, responsive, and user-friendly web interfaces.
+  <strong>aJam</strong> here — a first-semester of Informatics Engineering student at Politeknik Negeri Jakarta, <br> currently focused on frontend development. and learning how to create modern, responsive, <br> and user-friendly web interfaces.
 </p>
 
 <p align="justify">
-Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening <br> my understanding of programming fundamentals, problem-solving, and web development <br> through hands-on practice and personal projects.
+Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening my <br> understanding of programming fundamentals, problem-solving, and web development <br> through hands-on practice and personal projects.
 </p>
 
 <p align="justify">
