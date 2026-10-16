@@ -1,4 +1,4 @@
-<img src="./ascihand-removebg-preview.png" alt="Banner" width="100%" style="border-radius: 12px;"/>
+<img src="./ascihand-removebg-preview.png" alt="Banner" width="100%" style="border-radius: 12"/>
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, Im Muhammad Abdullah Azzam</h1>
 
@@ -9,7 +9,7 @@
 </p>
 
 <h2>About Me</h2>
-<img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="220" alt="Developer Illustration"/>
+<img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="220" alt="Developer Illustration" padding="0 40"/>
 
 <p></p>
 <p align="justify"><strong>aJam</strong> here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.</p>
