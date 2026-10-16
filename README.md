@@ -34,8 +34,6 @@
   <a href="https://github.com/aJamBeduL">
     <img height="160em" src="https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true" />
     <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=city_lights&hide_border=true" width="48%" />
-     <img height="160em" src="https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=nord&hide_border=true&include_all_commits=false&count_private=false" />
-    <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=nord&hide_border=true" width="48%" />
   </a>
 </p>
 
@@ -51,12 +49,14 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2><strong>Stay Connected</strong></h2>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aJamBeduL&theme=city_lights&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aJamBeduL&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div data-importer="socials" align="left">
+  <a href="mailto:azzamabdull86@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/6285712480669" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/ajambedull/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
