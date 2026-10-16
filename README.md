@@ -16,32 +16,8 @@
 I enjoy building clean, responsive, and user-friendly interfaces while exploring how great software is designed and developed.
 
 Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening my fundamentals in programming and problem-solving.
-
-My goal is simple: write clean code, build meaningful projects, and keep learning until I become a good software engineer who can turn ideas into reliable, well-crafted software.
+<p align="justify">My goal is simple: write clean code, build meaningful projects, and keep learning until I become a good software engineer who can turn ideas into reliable, well-crafted software.</p>
 <br clear="left"/>
-
-
-<table>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/profile.png" width="200" alt="Profile">
-    </td>
-    <td width="70%" valign="middle">
-      <h3>About Me</h3>
-      <p align="justify">
-       <strong>aJam</strong> here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.
-        Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening my fundamentals in programming and problem-solving.
-        My goal is simple: write clean code, build meaningful projects, and keep learning until I become a good software engineer who can turn ideas into reliable, well-crafted software.
-      </p>
-      <p align="justify">
-        I enjoy building clean, responsive, and user-friendly
-        interfaces while exploring how great software is designed
-        and developed.
-      </p>
-    </td>
-  </tr>
-</table>
-
 
 <h2>Stats</h2>
 <p align="center">
