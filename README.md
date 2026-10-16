@@ -9,7 +9,7 @@
 </p>
 
 <h2>About Me</h2>
-<img align="right" src="./Grainy Split-Tone Anime Silhouette.png" width="280" alt="Developer Illustration"/>
+<img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="280" alt="Developer Illustration"/>
 
 **aJam** here — a first-semester Informatics Engineering student at <br> Politeknik Negeri Jakarta, currently focused on frontend development.
 
