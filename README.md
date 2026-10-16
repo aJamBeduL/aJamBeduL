@@ -11,6 +11,7 @@
 <h2>About Me</h2>
 <img align="right" src="./astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
+<p align="justify">
 **aJam** here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.
 
 I enjoy building clean, responsive, and user-friendly interfaces while exploring how great software is designed and developed.
@@ -18,7 +19,8 @@ I enjoy building clean, responsive, and user-friendly interfaces while exploring
 Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening my fundamentals in programming and problem-solving.
 
 My goal is simple: write clean code, build meaningful projects, and keep learning until I become a good software engineer who can turn ideas into reliable, well-crafted software.
-<br clear="right" text-align: justify/>
+</p>
+<br clear="right"/>
 
 <h2>Stats</h2>
 <p align="center">
