@@ -16,11 +16,7 @@
 </p>
 
 <p align="justify">
-  I enjoy building clean and interactive websites while exploring different approaches to frontend development. I'm interested in how thoughtful design and well-written code work together to create a smooth and enjoyable experience for users.
-</p>
-
-<p align="justify">
-  Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening my understanding of programming fundamentals, problem-solving, and web development through hands-on practice and personal projects.
+Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening <br> my understanding of programming fundamentals, problem-solving, and web development <br> through hands-on practice and personal projects.
 </p>
 
 <p align="justify">
