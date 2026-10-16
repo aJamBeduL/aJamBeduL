@@ -1,4 +1,4 @@
-<div style="padding: 0 20px;">
+<div style="padding: 0 90px;">
 <img src="./ascihand-removebg-preview.png" alt="Banner" width="100%" style="border-radius: 12px;"/>
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, Im Muhammad Abdullah Azzam</h1>
