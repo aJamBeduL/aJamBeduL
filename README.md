@@ -34,6 +34,8 @@
   <a href="https://github.com/aJamBeduL">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aJamBeduL&cache_seconds=7200&layout=compact&theme=radical&hide_border=true" alt="aJamBeduL's GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=radical&hide_border=true&cache_seconds=86400" alt="aJamBeduL's GitHub Streak" width="48%" />
+     <img height="160em" src="https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=nord&hide_border=true&include_all_commits=false&count_private=false" />
+    <img src="https://streak-stats.demolab.com/?user=aJamBeduL&theme=nord&hide_border=true" width="48%" />
   </a>
 </p>
 
@@ -49,3 +51,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2><strong>Stay Connected</strong></h2>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajambedul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajambedul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azzamabdull86@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aJamBeduL&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aJamBeduL&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aJamBeduL&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
