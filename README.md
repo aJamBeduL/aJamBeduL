@@ -11,6 +11,7 @@
 <h2>About Me</h2>
 <img align="right" src="./astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
+<div text-align: justify>
 **aJam** here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.
 
 I enjoy building clean, responsive, and user-friendly interfaces while exploring how great software is designed and developed.
@@ -19,6 +20,7 @@ Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthen
 
 My goal is simple: write clean code, build meaningful projects, and keep learning until I become a good software engineer who can turn ideas into reliable, well-crafted software.
 <br clear="right"/>
+</div>
 
 <h2>Stats</h2>
 <p align="center">
@@ -41,4 +43,3 @@ My goal is simple: write clean code, build meaningful projects, and keep learnin
 
 <h2><strong>Stay Connected</strong></h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.instagram.com/ajambedull/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AzzamAbdul77626) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ajam126) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:@azzamabdull86@gmail.com) 
