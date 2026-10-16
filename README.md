@@ -1,4 +1,4 @@
-<img src="./Transparent World Map Projects Icon.png" alt="Banner" width="100%" border-radius= "12"/>
+<img src="./Digital Hands Reaching for Projects.png" alt="Banner" width="100%" border-radius= "12"/>
 
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">, Im Muhammad Abdullah Azzam</h1>
 
@@ -11,6 +11,7 @@
 <h2>About Me</h2>
 <img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="220" alt="Developer Illustration"/>
 
+<div width="50%">
 <p align="justify">
   <strong>aJam</strong> here — a first-year Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.
 </p>
@@ -26,6 +27,8 @@
 <p align="justify">
   My goal is simple: write clean code, build meaningful projects, and keep learning until I become a good software engineer who can turn ideas into reliable, well-crafted software.
 </p>
+
+</div>
 
 <br clear="left"/>
 
