@@ -18,7 +18,7 @@ I enjoy building clean, responsive, and user-friendly interfaces while <br> expl
 Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while <br> strengthening my fundamentals in programming and problem-solving.
 
 My goal is simple: write clean code, build meaningful projects, and <br> keep learning until I become a good software engineer <br> who can turn ideas into reliable, well-crafted software.
-<br clear="right"/>
+<br clear="left"/>
 
 <h2>Stats</h2>
 <p align="center">
