@@ -11,7 +11,7 @@
 <h2>About Me</h2>
 <img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="280" alt="Developer Illustration"/>
 
-<div width="80%">
+<div width="40%">
 <p align="justify"><strong>aJam</strong> here — a first-semester Informatics Engineering student at Politeknik Negeri Jakarta, currently focused on frontend development.</p>
 <p align="justify">I enjoy building clean, responsive, and user-friendly interfaces while exploring how great software is designed and developed.</p>
 <p align="justify">Currently, I'm learning HTML, CSS, JavaScript, Python, and C++, while strengthening my fundamentals in programming and problem-solving.</p>
