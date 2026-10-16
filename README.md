@@ -9,7 +9,7 @@
 </p>
 
 <h2>About Me</h2>
-<img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="220" alt="Developer Illustration"/>
+<img align="left" src="./Grainy Split-Tone Anime Silhouette.png" width="200" alt="Developer Illustration"/>
 
 <p align="justify" width="50%">
   <strong>aJam</strong> here — a first-semester of Informatics Engineering student at Politeknik Negeri Jakarta, <br> currently focused on frontend development. and learning how to create modern, responsive, <br> and user-friendly web interfaces.
